@@ -1,2 +1,2 @@
 # c-systems-security-toolkit
-Stack overflow in a Docker sandbox with canary, ASLR and safe function mitigations.
+Small tools, each with a threat model: setuid finder, PATH hijack auditor, UTF8 overlong validator, XOR breaker, etc
